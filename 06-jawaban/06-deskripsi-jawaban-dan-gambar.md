@@ -1,0 +1,1 @@
+06. Tools yang akan di gunakan adalah newrelic pada aplikasi tambahan , jika tidak menggunakan aplikasi tambahan tools basic yang di gunakan adalah set alarm untuk kondisi vm , log , dan status aplikasi , seperti htop , cloudwatch , /var/log/aplikasi , dan loging aplikasi dan database.
