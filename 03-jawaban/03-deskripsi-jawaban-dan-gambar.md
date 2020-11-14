@@ -1,0 +1,1 @@
+03. Load Balnacing adalah pembagian trafic sesuai dengan kebutuhan aplikasi agar stabil/seimbang. ada 2 jenis load balancing ada pertama yang membagikan trafic nya ke vm sesuai kebutuhan aplikasi atau contrainer dan yang ke 2 adalah membagikan traficnya lewat network contohnya udp/tcp. contoh web server yang di ketahui adalah apache , nginx , jboss , litespeed , apache tomcat.
