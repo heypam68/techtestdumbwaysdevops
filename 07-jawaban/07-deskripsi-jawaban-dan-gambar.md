@@ -1,0 +1,1 @@
+07. Dns adalah mengalihkan alamat yang susah di ingat oleh pengguna sehingga menjadi di translasikan ke alamat yang mudah di ingat . contoh 192.168.19.19 = > di translasikan menjadi dumbsways.com , ada beberapa bagian utama yaitu nama utama , atau rekursif yaitu memberikan feedback antara 2 komunikasi , dan autorative mencari dns yang sama .
