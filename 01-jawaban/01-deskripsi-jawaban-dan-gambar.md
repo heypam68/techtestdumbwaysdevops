@@ -1,0 +1,1 @@
+01. Devops adalah Serangkaian development dan operasional untuk menoptimalisasikan proses pengembangan dari mulai pembuatan hingga release , digunakan agar suatu sistem berjalan dengan baik & stabil sebagaimana untuk meningkatkan aplikasi yang telah di buat.
